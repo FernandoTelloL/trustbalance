@@ -8,7 +8,7 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "*"  // ⚠️ o limita a tu frontend: https://frontend.vercel.app
+          "value": "*" 
         },
         {
           "key": "Access-Control-Allow-Methods",
